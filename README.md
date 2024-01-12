@@ -1,6 +1,14 @@
-# Nuxt 3 Minimal Starter
+# LaraNuxt Store I
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Alt text](/public/images/screenshot.png)
+
+LaraNuxt Store is an innovative eCommerce platform built on the powerful combination of Laravel and Nuxt.js, providing a seamless and responsive shopping experience for your customers. With a focus on performance, security, and user-friendly design, our platform is tailored to meet the demands of modern online businesses.
+
+## Features
+
+- Laravel Backend: Benefit from the robust and reliable Laravel backend for handling business logic, database interactions, and server-side operations.
+- Nuxt.js Frontend: Leverage the dynamic and interactive user interface powered by Nuxt.js, offering a smooth and engaging experience for your customers.
+- Responsive Design: Ensure a consistent and appealing shopping experience across devices with our mobile-friendly and responsive design.
 
 ## Setup
 
