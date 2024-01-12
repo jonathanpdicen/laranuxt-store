@@ -2,7 +2,14 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#0e0c30'
+      },
+      backgroundImage: {
+        'hero-banner': "url('/images/lrs-hero.jpg')",
+      }
+    },
   },
   plugins: [],
 }
